@@ -1,2 +1,1 @@
-# fedihospex.github.io
-redirect fedihospex.github.io to openhospitalitynetwork.github.io
+[FediHospEx](https://fedihospex.github.io) is now [Open Hospitality Network](https://openhospitalitynetwork.github.io)
