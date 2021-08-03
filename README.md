@@ -1,1 +1,1 @@
-[FediHospEx](https://fedihospex.github.io) is now [Open Hospitality Network](https://openhospitalitynetwork.github.io)
+We moved to https://openHospitality.network
